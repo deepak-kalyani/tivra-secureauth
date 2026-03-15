@@ -1,0 +1,23 @@
+# Build artifacts
+*.zip
+*.crx
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (if ever used)
+node_modules/
+npm-debug.log
+
+# Temp
+*.tmp
+*.bak

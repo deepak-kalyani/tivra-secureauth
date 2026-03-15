@@ -1,0 +1,50 @@
+================================================================================
+TOTP AUTHENTICATOR — CREDITS & PUBLISHING INFORMATION
+================================================================================
+
+PRODUCT NAME     : Tivra SecureAuth
+VERSION          : 1.0.0
+RELEASE DATE     : 2026
+PLATFORM         : Microsoft Edge (Chromium) — Manifest V3
+PUBLISHER        : Deepak Kalyani
+AUTHOR           : Deepak Kalyani
+COPYRIGHT HOLDER : Deepak Kalyani
+TRADEMARK OWNER  : Deepak Kalyani
+
+--------------------------------------------------------------------------------
+DESCRIPTION
+--------------------------------------------------------------------------------
+A secure, offline TOTP (Time-based One-Time Password) authenticator extension
+for Microsoft Edge. Generates 2FA codes fully compatible with Google
+Authenticator, Authy, and any RFC 6238 compliant authenticator app.
+All secrets are stored locally using browser-encrypted storage — no data is
+ever transmitted to any server.
+
+--------------------------------------------------------------------------------
+DEVELOPMENT
+--------------------------------------------------------------------------------
+Designed and developed by  : Deepak Kalyani
+Algorithm standard         : RFC 6238 (TOTP), RFC 4226 (HOTP)
+Cryptography               : Web Crypto API — HMAC-SHA1 (browser-native)
+Third-party dependencies   : None
+
+--------------------------------------------------------------------------------
+INTELLECTUAL PROPERTY
+--------------------------------------------------------------------------------
+All source code, UI design, icons, branding, and documentation are the
+original work of and exclusively owned by Deepak Kalyani.
+
+© 2026 Deepak Kalyani. All rights reserved.
+
+Trademarks: "Tivra SecureAuth" is a trademark of Deepak Kalyani.
+
+--------------------------------------------------------------------------------
+STORE LISTING (Microsoft Edge Add-ons)
+--------------------------------------------------------------------------------
+Publisher Name   : Deepak Kalyani
+Extension Name   : Tivra SecureAuth
+Category         : Productivity / Security
+
+================================================================================
+© 2026 Deepak Kalyani — All rights reserved.
+================================================================================

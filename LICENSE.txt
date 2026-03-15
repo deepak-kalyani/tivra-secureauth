@@ -1,0 +1,59 @@
+TOTP AUTHENTICATOR — MICROSOFT EDGE EXTENSION
+SOFTWARE LICENSE AND COPYRIGHT NOTICE
+
+================================================================================
+Copyright (c) 2026 Deepak Kalyani. All rights reserved.
+================================================================================
+
+AUTHOR & PUBLISHER
+  Deepak Kalyani
+
+PRODUCT
+  Tivra SecureAuth — Microsoft Edge Extension
+  Version 1.0.0
+
+TRADEMARK NOTICE
+  "Tivra SecureAuth" and its associated logo are the intellectual property
+  of Deepak Kalyani. Unauthorized use of this name, logo, or branding in any
+  product, service, or publication is strictly prohibited.
+
+COPYRIGHT NOTICE
+  This software, including all source code, design assets, icons, user interface
+  elements, and documentation, is the exclusive intellectual property of
+  Deepak Kalyani and is protected by copyright law and international treaties.
+
+  Unauthorized copying, reproduction, distribution, modification, public display,
+  or creation of derivative works of this software, in whole or in part, without
+  the prior express written permission of Deepak Kalyani, is strictly prohibited
+  and may result in civil and criminal penalties.
+
+ALL RIGHTS RESERVED
+  No part of this software may be:
+    - Copied or reproduced in any form or by any means
+    - Distributed, sold, sublicensed, or transferred to any third party
+    - Modified, adapted, or used to create derivative works
+    - Reverse-engineered, decompiled, or disassembled
+
+  without the prior written consent of Deepak Kalyani.
+
+THIRD-PARTY NOTICES
+  This software implements the TOTP algorithm as defined in RFC 6238 and
+  HOTP as defined in RFC 4226 (IETF standards — royalty-free). No third-party
+  libraries or dependencies are bundled in this extension. All cryptographic
+  operations use the browser's native Web Crypto API.
+
+DISCLAIMER OF WARRANTIES
+  THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+  DEEPAK KALYANI BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+  FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+  DEALINGS IN THE SOFTWARE.
+
+CONTACT
+  For licensing inquiries, permissions, or support, contact:
+  Deepak Kalyani
+
+================================================================================
+© 2026 Deepak Kalyani. All rights reserved.
+================================================================================

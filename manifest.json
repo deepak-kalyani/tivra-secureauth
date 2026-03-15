@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Tivra SecureAuth",
+  "version": "1.0.0",
+  "description": "TOTP authenticator. Generates 2FA codes locally \u2014 secrets never leave your browser. Works offline.",
+  "author": "Deepak Kalyani",
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+    "default_title": "Tivra SecureAuth"
+  },
+  "permissions": [
+    "storage",
+    "clipboardWrite"
+  ],
+  "offline_enabled": true
+}
